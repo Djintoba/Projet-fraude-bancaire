@@ -22,3 +22,15 @@ Dans le secteur bancaire, évaluer le risque de crédit est fondamental pour dé
 | `loan_percent_income` | Ratio prêt / revenu (montant du prêt / revenu annuel) | Numérique |
 | `cb_person_default_on_file` | Antécédent de défaut (`Y` = Oui, `N` = Non) | Catégorielle |
 | `cb_person_cred_hist_length` | Ancienneté du crédit (années) | Numérique |
+## 📈 Principaux résultats                                         
+- **22%** des prêts sont en défaut                               
+- Les **notes D, E, F** sont les plus risquées                   
+- **Faibles revenus** = plus de risques                          
+- Les prêts **personnels** et **éducatifs** sont les plus risqués
+- Un **historique de défaut** est un signal d'alarme fort        
+                                                             
+## 👤 Auteur                                                      
+Djintoba                                                        
+                                                                   
+## 📅 Date                                                        
+27 Juillet 2026                                                     
