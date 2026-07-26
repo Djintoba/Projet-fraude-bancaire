@@ -1,4 +1,4 @@
-# Projet-fraude-bancaire
+# Projet-Credit-risque
 Analyse exploratoire du risque de crédit bancaire
 ## Sources
 [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
