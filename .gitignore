@@ -1,0 +1,28 @@
+# Fichiers de données (trop volumineux pour GitHub)
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+
+# Environnements Python
+venv/
+env/
+.venv/
+
+# Jupyter Notebook (fichiers de cache)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers de cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers de configuration personnels
+.env
+config.local.yaml
